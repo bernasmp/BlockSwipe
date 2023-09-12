@@ -32,3 +32,8 @@ UI -  Shop Page
       Character Customization
       More options to use ingame currency
       
+Screenshots:
+![Screenshot_20230912_193538_com Flamewave BlockSwipe](https://github.com/bernasmp/BlockSwipe/assets/32437982/90ee21db-61ea-4e5b-8a0f-f4568d8a6016)
+![Screenshot_20230912_193554_com Flamewave BlockSwipe](https://github.com/bernasmp/BlockSwipe/assets/32437982/8677dadb-0a72-460a-9491-7a3592d56daa)
+![Screenshot_20230912_193628_com Flamewave BlockSwipe](https://github.com/bernasmp/BlockSwipe/assets/32437982/0444decc-c15d-410a-9df5-a5dcd91bdfdf)
+![Screenshot_20230912_193708_com Flamewave BlockSwipe](https://github.com/bernasmp/BlockSwipe/assets/32437982/431627c5-c931-4eaa-b15a-46e12377bdf5)
