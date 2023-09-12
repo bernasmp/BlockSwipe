@@ -31,9 +31,9 @@ UI -  Shop Page
       Skins
       Character Customization
       More options to use ingame currency
-      
-Screenshots:
-![Screenshot_20230912_193538_com Flamewave BlockSwipe](https://github.com/bernasmp/BlockSwipe/assets/32437982/90ee21db-61ea-4e5b-8a0f-f4568d8a6016 | width=100)
-![Screenshot_20230912_193554_com Flamewave BlockSwipe](https://github.com/bernasmp/BlockSwipe/assets/32437982/8677dadb-0a72-460a-9491-7a3592d56daa | width=100)
-![Screenshot_20230912_193628_com Flamewave BlockSwipe](https://github.com/bernasmp/BlockSwipe/assets/32437982/0444decc-c15d-410a-9df5-a5dcd91bdfdf | width=100)
-![Screenshot_20230912_193708_com Flamewave BlockSwipe](https://github.com/bernasmp/BlockSwipe/assets/32437982/431627c5-c931-4eaa-b15a-46e12377bdf5 | width=100)
+
+![Screenshot_20230912_193708_com Flamewave BlockSwipe](https://github.com/bernasmp/BlockSwipe/assets/32437982/5b31bb18-9b42-40f6-b515-c4b694f400b3)
+![Screenshot_20230912_193628_com Flamewave BlockSwipe](https://github.com/bernasmp/BlockSwipe/assets/32437982/64b6dbe8-e0c6-487e-81ab-925626b85f28)
+![Screenshot_20230912_193554_com Flamewave BlockSwipe](https://github.com/bernasmp/BlockSwipe/assets/32437982/52be83f5-d4fe-411d-b53a-048dd71a6c86)
+![Screenshot_20230912_193538_com Flamewave BlockSwipe](https://github.com/bernasmp/BlockSwipe/assets/32437982/a07c42ed-5af4-4939-9090-be18abbb6ae4)
+
